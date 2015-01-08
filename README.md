@@ -19,3 +19,9 @@ Contribute
 
 If you want to contribute to this project please fork it and send me a pull request. Any help is highly appreciated.
 
+
+Chrome Webstore
+===============
+
+https://chrome.google.com/webstore/detail/gpx-downloader/dpamipdfplcigmapcdgckimdgpgjidcl
+
